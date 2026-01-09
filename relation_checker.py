@@ -6,7 +6,7 @@ from collections import defaultdict
 
 # ---------- CONFIG ----------
 st.set_page_config(page_title="Batch Category Classifier", layout="centered")
-st.title("AI Category vs Search Category Classifier")
+st.title("Column relationship checker")
 
 client = OpenAI()
 BATCH_SIZE = 5
