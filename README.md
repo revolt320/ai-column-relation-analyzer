@@ -24,4 +24,4 @@
 
 ## Live Demo 
 
-[https://explore.streamlit.app/](https://column-relation-checker.streamlit.app/)
+https://column-relation-checker.streamlit.app/
